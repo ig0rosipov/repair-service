@@ -1,0 +1,11 @@
+.logo {
+  font-family: 'Helvetica';
+  font-weight: bold;
+  font-size: 2rem;
+  text-decoration: none;
+  color: black;
+}
+
+.logo:hover {
+  color: white;
+}
